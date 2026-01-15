@@ -1,4 +1,4 @@
-package me.bubbles;
+package com.example;
 
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
